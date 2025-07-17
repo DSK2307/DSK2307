@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgithub%2F.github%2Fblob%2Fmain%2Fprofile%2FREADME.md&psig=AOvVaw2epTmxcJhh_zCjDiSYfc0_&ust=1752880541812000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPj26YKDxY4DFQAAAAAdAAAAABAE)" alt="Typing animation" />
 
 <br>
 
