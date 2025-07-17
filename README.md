@@ -2,9 +2,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!" alt="Typing animation" />
 
-<img src="https://assets6.lottiefiles.com/packages/lf20_4rwq6rhc.json" width="120" align="center" alt="Lottie Animation" />
+<br>
+
+<img src="https://lottie.host/c7e45599-c8f5-4027-a106-16354eddd1c8/snzgHYp2ls.lottie.gif" width="180" alt="Animated welcome" />
+
+<!-- If you've converted your lottie file to GIF and hosted, replace above link by your GIF source if needed -->
+
+<br>
 
 ![SVG Banner](https://svg-banners.vercel.app/api?type=waves&height=150&textColor=fff&section=Web%20Development%20%7C%20Open%20Source%20%7C%20Collaboration)
 
@@ -24,7 +30,9 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-sagar-kumar-995951251/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deosagar150@gmail.com) [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DSK2307&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-sagar-kumar-995951251/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deosagar150@gmail.com) 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DSK2307&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -49,8 +57,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!-- Add more technologies according to your expertise and branded color -->
-
 </div>
 
 ---
@@ -66,28 +72,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSK2307&theme=radical&hide_border=true&layout=compact)
 
 </div>
-
----
-
-<details>
-  <summary><b>⚡ Featured Projects</b></summary>
-  
-  - **MERN Messenger**: Real-time chat app with advanced features and beautiful UI
-  - **Ecommerce Platform**: Full-featured stack app, admin panel, secure payments, product search
-  - **Portfolio Website**: Interactive, responsive, and loaded with blog & project showcases
-  - **Data Visualization Dashboards**: React + Chart.js, featuring smart analytics and animated charts
-  <!-- Add or modify based on your real projects -->
-</details>
-
-<details>
-  <summary><b>🏆 Achievements & Certifications</b></summary>
-  
-  - AWS Certified Cloud Practitioner
-  - CodeChef 4⭐ & LeetCode 900+ problems solved
-  - Winner, Hackathon XYZ 2024
-  - Top 5% in global web dev contest
-  <!-- Update with your real-life achievements -->
-</details>
 
 ---
 
