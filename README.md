@@ -2,13 +2,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgithub%2F.github%2Fblob%2Fmain%2Fprofile%2FREADME.md&psig=AOvVaw2epTmxcJhh_zCjDiSYfc0_&ust=1752880541812000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPj26YKDxY4DFQAAAAAdAAAAABAE)" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!" alt="Typing animation" />
 
 <br>
 
-<img src="https://lottie.host/c7e45599-c8f5-4027-a106-16354eddd1c8/snzgHYp2ls.lottie.gif" width="180" alt="Animated welcome" />
+<!-- This should be a GIF of your Lottie animation; if you have converted your Lottie, update the link below. 
+The link you provided points to a `.lottie` file, not a GIF. 
+GitHub will only render GIF/PNG/JPG/SVG images. 
+If you haven't yet converted to GIF, do so and update this link.
+If you're just using a placeholder for now, that's fine too: -->
 
-<!-- If you've converted your lottie file to GIF and hosted, replace above link by your GIF source if needed -->
+<img src="https://lottie.host/c7e45599-c8f5-4027-a106-16354eddd1c8/snzgHYp2ls.gif" width="180" alt="Animated welcome" />
 
 <br>
 
