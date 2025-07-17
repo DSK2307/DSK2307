@@ -1,82 +1,55 @@
 # ✨ About Me
 
 <div align="center">
-  
-<img src="https://readme-animated-feather.vercel.app/api/ping?color=61dbfb&center=true&v=1" alt="Fancy Divider" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=900&color=FF6F00&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Passionate+Web+Developer;MERN+Stack+Enthusiast;Let%27s+Build+Awesome+Stuff+Together%21" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!" alt="Typing animation" />
 
-</div>
+<img src="https://assets6.lottiefiles.com/packages/lf20_4rwq6rhc.json" width="120" align="center" alt="Lottie Animation" />
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" align="right"/>
+![SVG Banner](https://svg-banners.vercel.app/api?type=waves&height=150&textColor=fff&section=Web%20Development%20%7C%20Open%20Source%20%7C%20Collaboration)
 
 </div>
 
-🚀 *Turning ideas into interactive, real-world web-apps is what drives me.*<br>
-💡 A **MERN Stack specialist**, I love exploring new tech trends and collaborating on exciting projects.<br>
-🤝 Open to teamwork, learning, and pushing boundaries with code.<br>
-⚡ *Let’s connect, create, and code something exceptional!*<br>
-<div align="left">
-  
-![Animated Rocket](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-  
-</div>
+---
+
+🚀 *Transforming visionary concepts into interactive, robust web applications fuels my drive.*
+
+💡 With strong expertise in the **MERN Stack**, I thrive on exploring new tech, embracing challenges, and collaborating with innovative minds.
+
+🎨 *My coding style meshes creative flair and technical precision, constantly pushing boundaries for modern, beautiful, and functional UIs.*
+
+🤝 *Let’s create, collaborate, and build the future—together!*
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-sagar-kumar-995951251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deosagar150@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-sagar-kumar-995951251/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deosagar150@gmail.com) [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DSK2307&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 # 💻 Tech Stack
 
 <div align="center">
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- Add more technologies according to your expertise and branded color -->
 
 </div>
 
@@ -86,30 +59,44 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSK2307&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSK2307&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DSK2307&theme=gruvbox&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=DSK2307&theme=radical&hide_border=true)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSK2307&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSK2307&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-### 🔝 Top Contributed Repo
+<details>
+  <summary><b>⚡ Featured Projects</b></summary>
+  
+  - **MERN Messenger**: Real-time chat app with advanced features and beautiful UI
+  - **Ecommerce Platform**: Full-featured stack app, admin panel, secure payments, product search
+  - **Portfolio Website**: Interactive, responsive, and loaded with blog & project showcases
+  - **Data Visualization Dashboards**: React + Chart.js, featuring smart analytics and animated charts
+  <!-- Add or modify based on your real projects -->
+</details>
 
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=DSK2307&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
+<details>
+  <summary><b>🏆 Achievements & Certifications</b></summary>
+  
+  - AWS Certified Cloud Practitioner
+  - CodeChef 4⭐ & LeetCode 900+ problems solved
+  - Winner, Hackathon XYZ 2024
+  - Top 5% in global web dev contest
+  <!-- Update with your real-life achievements -->
+</details>
 
 ---
 
+## 🚗 Visitor Counter
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=DSK2307&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DSK2307&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly customized for your brand style! -->
