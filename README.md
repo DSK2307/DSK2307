@@ -1,90 +1,176 @@
-# ✨ About Me
+![MasterHead](https://cdn.wallpapersafari.com/69/16/S8uBZe.gif)
 
-<div align="center">
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Sagar Deo
+<h3 align="left">Web Developer | MERN Stack Enthusiast | Open Source Contributor | Creative Coder</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1DE9B6&center=true&width=600&lines=Hey%2C+I%27m+Sagar+Deo+%F0%9F%91%8B;Web+Developer+%7C+MERN+Stack+Enthusiast;Crafting+Future-Ready+Web+Apps;Let%27s+Code+Something+Amazing!" alt="Typing animation" />
-
-<br>
-
-<!-- This should be a GIF of your Lottie animation; if you have converted your Lottie, update the link below. 
-The link you provided points to a `.lottie` file, not a GIF. 
-GitHub will only render GIF/PNG/JPG/SVG images. 
-If you haven't yet converted to GIF, do so and update this link.
-If you're just using a placeholder for now, that's fine too: -->
-
-<img src="https://lottie.host/c7e45599-c8f5-4027-a106-16354eddd1c8/snzgHYp2ls.gif" width="180" alt="Animated welcome" />
-
-<br>
-
-![SVG Banner](https://svg-banners.vercel.app/api?type=waves&height=150&textColor=fff&section=Web%20Development%20%7C%20Open%20Source%20%7C%20Collaboration)
-
+<div>
+  <img align="right" width="28%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DSK2307&label=Profile%20views&color=0e75b6&style=flat" alt="DSK2307" /> </p>
 
-🚀 *Transforming visionary concepts into interactive, robust web applications fuels my drive.*
+- 🔭 I’m currently working on *Future-Ready Web Apps* (MERN Stack)
 
-💡 With strong expertise in the **MERN Stack**, I thrive on exploring new tech, embracing challenges, and collaborating with innovative minds.
+- 🌱 I’m currently learning *NextJs, AI & Machine Learning*
 
-🎨 *My coding style meshes creative flair and technical precision, constantly pushing boundaries for modern, beautiful, and functional UIs.*
+- 💬 Ask me about *ReactJS, NodeJs, FrontEnd*
 
-🤝 *Let’s create, collaborate, and build the future—together!*
+- 📫 How to reach me *deosagar150@gmail.com*
 
----
+- ⚡ Fun fact *I mix creative flair with technical precision*
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deo-sagar-kumar-995951251/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deosagar150@gmail.com) 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DSK2307&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSK2307&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=DSK2307&theme=radical&hide_border=true)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+</ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/deo-sagar-kumar-995951251/" target="blank">
+  <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:deosagar150@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="background-color: #ffffff; padding: 2px; border-radius: 4px;" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a> 
+</p>
+
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSK2307&theme=radical&hide_border=true&layout=compact)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-</div>
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
+<p align="center">
+  <a href="https://github.com/DSK2307">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DSK2307&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DSK2307&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DSK2307&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
 
----
 
-## 🚗 Visitor Counter
+<!--Github stats Table--> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DSK2307">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSK2307&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DSK2307">
+          <img align="center" src="https://streak-stats.demolab.com?user=DSK2307&background=0f0f0f&fire=ff4444&ring=ff3333&sideNums=ff6666&sideLabels=ff6666&dates=ff8888&currStreakNum=ff2222" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DSK2307">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=DSK2307&repo=FlavorlyIndia-project-MERN-&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&icon_color=ff3333" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DSK2307">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=DSK2307&limit=2&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=DSK2307&icon=5&color=12)](https://visitcount.itsvg.in)
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DSK2307&bg_color=0f0f0f&color=ff0000&line=cc0000&point=ff9999&area=false&hide_border=false" style="border-radius: 15px;">
 </div>
 
-<!-- Proudly customized for your brand style! -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
