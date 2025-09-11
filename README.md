@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.wallpapersafari.com/69/16/S8uBZe.gif)
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Sagar Deo
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Deo Sagar
 <h3 align="left">Web Developer | MERN Stack Enthusiast | Open Source Contributor | Creative Coder</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
